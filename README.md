@@ -1,2 +1,2 @@
-# GazeUnconstraine
-The code and dataset for GazeUnconstraine
+# GazeUnconstrained
+The code and dataset for GazeUnconstrained
